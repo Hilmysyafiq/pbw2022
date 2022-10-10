@@ -5,7 +5,7 @@ body{
 .all-browsers {
     margin: 0;
     padding: 5px;
-    background-color: rgba(143, 131, 92, 0.815);
+    background-color: rgba(45, 86, 222, 0.815);
   }
   
   .all-browsers > h1, .browser {
@@ -14,7 +14,7 @@ body{
   }
   
   .browser {
-    background: rgb(70, 33, 33);
+    background: rgb(225, 50, 176);
   }
   
   .browser > h2, p {
