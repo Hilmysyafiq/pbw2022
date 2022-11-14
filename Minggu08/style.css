@@ -1,0 +1,29 @@
+* {
+    box-sizing:  border-box;
+}
+header {
+    padding: 50px;
+    text-align: center;
+    background-color: grey;
+    border: 10px solid green;
+}
+nav {
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    background-color:grey;
+    margin-top: 0px;
+    display: block;
+    
+
+}
+article {
+    float: left;
+    width: 80%;
+    padding: 0 20px;
+    background-color: grey;
+    border: 10px solid green;
+}
